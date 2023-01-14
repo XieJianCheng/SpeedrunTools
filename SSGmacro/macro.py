@@ -10,7 +10,7 @@ import keyboard
 # 后面两个不是标准库，运行的时候需要先用pip安装
 
 # 运行配置
-instance_number = 3     # 实例数，你是几开就填几
+instance_number = 2     # 实例数，你是几开就填几
 reset_key = 'B'         # reset热键，可以是符号，如果是字母要注意大小写
 exit_delay = 0.2        # 切换实例延迟，电脑卡的就调大一点；如果你不用全屏玩游戏就设成-1
 
