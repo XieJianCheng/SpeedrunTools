@@ -1,0 +1,9 @@
+C:\Users\xiech\AppData\Local\MultiMC\instances
+dssg_1
+dssg_2
+instance_1
+instance_2
+instance_3
+instance_4
+instance_ssg_1
+instance_ssg_2
